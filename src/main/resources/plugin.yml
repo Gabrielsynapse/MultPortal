@@ -1,0 +1,4 @@
+name: MultPortal
+version: '1.0-SNAPSHOT'
+main: singelagames.java.multPortal.Main
+api-version: '1.21'
